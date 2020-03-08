@@ -7,6 +7,10 @@ import Header from '../components/Header';
 import {getPages, Link, safePrefix} from '../utils';
 import Footer from '../components/Footer';
 
+import Strata from '../components/strata';
+import Strata2 from '../components/strata2';
+
+
 export default class Home extends React.Component {
     render() {
         let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts'), 'frontmatter.date', 'desc');
@@ -15,6 +19,11 @@ export default class Home extends React.Component {
               <Header {...this.props} site={this.props.pageContext.site} page={this.props.pageContext} img_path={_.get(this.props, 'pageContext.site.siteMetadata.header.bg_img')} />
               <div id="content" className="site-content">
                 <main id="main" className="site-main inner">
+                  <Strata />
+                 {/* <Strata2 />*/}
+                  <br />
+                  <hr />
+                  <br />
                   <div className="post-feed">
                     {_.map(display_posts, (post, post_idx) => (
                     <article key={post_idx} className="post">
