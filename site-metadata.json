@@ -1,22 +1,16 @@
 {
-    "title": "Stackbit Fjord Theme",
-    "palette": "yellow",
-    "header": {
-        "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
-        "logo_img": "images/logo.png",
-        "bg_img": "images/header-bg.jpg",
-        "has_nav": true,
-        "has_social": true
-    },
-    "footer": {
-        "content": "&copy; All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ]
-    }
+  "title": "Danny's Blog",
+  "palette": "blue",
+  "header": {
+    "title": "Danny's Blog",
+    "tagline": "Running and other thoughts",
+    "logo_img": "",
+    "bg_img": "/images/steve-prefontaine.jpg",
+    "has_nav": true,
+    "has_social": true
+  },
+  "footer": {
+    "content": "&copy; All rights reserved.",
+    "links": []
+  }
 }
