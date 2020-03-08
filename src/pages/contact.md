@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/contact.jpg
+img_path: /images/pexels-photo-786003.jpeg
 menus:
   main:
     title: Contact
