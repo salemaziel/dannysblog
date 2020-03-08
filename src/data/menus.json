@@ -1,9 +1,3 @@
 {
-  "main": [
-    {
-      "identifier": "Home",
-      "title": "Home",
-      "url": "https://dannysblog-4bb11.netlify.com"
-    }
-  ]
+  "main": []
 }
