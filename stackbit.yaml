@@ -9,18 +9,13 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 metadata:
-  title: Fjord
+  title: DannysBlog
   description: A minimal blogging theme
-  author: Stackbit
-  authorURL: 'https://www.stackbit.com'
+  author: Salem
+  authorURL: 'https://www.salemaziel.com'
   images:
     small: images/demo-256x192.png
     large: images/demo-1024x768.png
-stackbit_banner:
-  show_banner: true
-  name: Fjord
-  create_url: 'https://app.stackbit.com/create?theme=fjord'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-fjord'
 sourceMapping:
   - source:
       fieldPath: author.name
