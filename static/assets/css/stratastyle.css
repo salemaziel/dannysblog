@@ -1,4 +1,4 @@
-/* Work Item */
+/* Work Item * /
 
 .work-item {
     margin: 0 0 2em 0;
@@ -18,8 +18,8 @@
         line-height: 1.5em;
         margin: 0;
     }
-
-/* Row */
+*/
+/* Row * /
 
 	.row {
 		display: flex;
@@ -33,9 +33,14 @@
     header.major h2 {
 		font-size: 2em;
     }
-    
+*/
+    .photo {
+        border-radius: 360%;
+    }
+    /*
 @media screen and (max-width: 736px) {
     header.major h2 {
         font-size: 1.35em;
     }
 }
+*/

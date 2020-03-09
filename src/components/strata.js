@@ -1,5 +1,5 @@
 import React from 'react'
-//import '../../static/assets/css/strata.css'
+import '../../static/assets/css/stratastyle.css'
 import Photo from "../../static/images/about-running.jpg"
 
 const Strata = () => (
@@ -24,11 +24,11 @@ const Strata = () => (
 
             }}>
 
-                <img src={Photo} 
+                <img src={Photo}
+                className="photo" 
                 width="300px" 
                 style={{
                     borderWidth: "10px",
-                    borderRadius: "210px"
                 }}/>
             </div>
     </header>
