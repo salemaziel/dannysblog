@@ -7,7 +7,9 @@ excerpt: ''
 hide_header: false
 menus:
   main:
-    title: ''
+    title: Blog Posts
+    weight: 1
+    identifier: finalstage
 template: post
 ---
 Withering tree roots, foundation long ago corrupted, enters it's final stage.  
