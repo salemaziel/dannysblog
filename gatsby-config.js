@@ -27,7 +27,7 @@ module.exports = {
         {
             resolve: `gatsby-remark-page-creator`,
             options: {
-                path: `${__dirname}/src/pages/posts`,
+                path: `${__dirname}/src/posts`,
             }
         },
         {
