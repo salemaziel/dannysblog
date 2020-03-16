@@ -2,12 +2,12 @@
 title: The Final Stage
 subtitle: Causes and Effects
 date: 2020-03-16T04:59:52.951Z
-thumb_img_path: /images/photo-1583525957866-ea1cdcb4f46a.jpeg
+thumb_img_path: ./the-final-stage.jpg
 excerpt: ''
-hide_header: false
+hide_header: true
 menus:
   main:
-    title: ''
+    title: 'The Final Stage'
 template: post
 ---
 Withering tree roots, foundation long ago corrupted, enters it's final stage.  
