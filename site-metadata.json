@@ -6,7 +6,7 @@
     "tagline": "Running and other thoughts",
     "logo_img": "/images/danielrosales-white.png",
     "bg_img": "/images/steve-prefontaine.jpg",
-    "has_nav": true,
+    "has_nav": false,
     "has_social": true
   },
   "footer": {
